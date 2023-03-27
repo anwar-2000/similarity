@@ -26,7 +26,7 @@ export default function Home() {
                   <Link href='/login' className='underline underline-offset-2 text-black dark:text-light-gold'>API Key</Link> .
               </Paragraph>
 
-              <div className=' relative w-full max-w-lg lg:max-w-3xl lg:left-1/2 aspect-square lg:absolute'>
+              <div className='relative w-full max-w-lg lg:max-w-3xl lg:left-1/2 aspect-square lg:absolute'>
                 <Image priority
                 className='img-shadow' 
                 quality={100}
